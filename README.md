@@ -26,34 +26,14 @@ Doctorate (Phd) in Civil Engineering (Concept CAPES 4) from the State
 University of Campinas, UNICAMP. Here are a few technologies that I work
 with:
 
-⭐ HTML, CSS, Javascript;
-
-⭐ NodeJS;
-
-⭐ Express;
-
-⭐ SailsJS;
-
-⭐ ReactJS with react hooks;
-
-⭐ React Native
-
-⭐ React Redux;
-
-⭐ MongoDB, PostgreSQL, MySQL;
-
-⭐ Unit and Integration tests with JEST;
-
-⭐ Sequelize;
+⭐ HTML, CSS, Javascript;⭐ NodeJS;⭐ Express;⭐ SailsJS;⭐ ReactJS with react hooks;⭐ React Native⭐ React Redux;⭐ MongoDB, PostgreSQL, MySQL;⭐ Unit and Integration tests with JEST;⭐ Sequelize;
 
 I also have experience in Civil Engineering and how to analyze the theoretical
 methods already established by the academic community and then create
 simplified teaching methods, so that new engineers can more easily understand
 calculus, the theory of structures, programming and development. 🚀  
   
-
 <br/>  
-
 
 ## Rapidfire  
 <table><tr><td valign="top" width="100%">
