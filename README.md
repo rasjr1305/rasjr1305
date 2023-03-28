@@ -32,9 +32,7 @@ I also have experience in Civil Engineering and how to analyze the theoretical
 methods already established by the academic community and then create
 simplified teaching methods, so that new engineers can more easily understand
 calculus, the theory of structures, programming and development. 🚀  
-  
 <br/>  
-
 ## Rapidfire  
 <table><tr><td valign="top" width="100%">
 
